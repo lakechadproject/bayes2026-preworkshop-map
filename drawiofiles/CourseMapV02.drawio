@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3" pages="4">
   <diagram name="Home page" id="8CxHliIjXkoQRSCst7Q4">
-    <mxGraphModel dx="1532" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2118" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="0" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -195,15 +195,15 @@
           </mxCell>
         </UserObject>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-73" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="34.25" y="823" width="225.75" height="157" as="geometry" />
+          <mxGeometry x="34.25" y="823" width="255.75" height="157" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-75" value="Dr. Katherine Muller" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="71" y="878" width="128.02" height="17" as="geometry" />
+          <mxGeometry x="50" y="878" width="128.02" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-76" value="Bridging theory with computation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="55.25" y="821.26" width="159.52" height="61.74" as="geometry" />
+        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-76" value="Bridging theory to practice with computation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
+          <mxGeometry x="45.37" y="823" width="234.75" height="61.74" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Exercises and slides&lt;/font&gt;" link="INSERTLINK" id="3v1Y2l8dRt_Qm8-owUrX-16">
+        <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Exercises and slides&lt;/font&gt;" link="https://github.com/lakechadproject/BayesWorkshop2026/tree/main/TheoryModule/BridgingTheoryAndPractice" id="3v1Y2l8dRt_Qm8-owUrX-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;container=0;align=left;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
             <mxGeometry x="84.88" y="933" width="95.75" height="42.14" as="geometry" />
           </mxCell>
@@ -322,20 +322,20 @@
             <mxGeometry x="88.47999999999999" y="1.5874999999999773" width="28.27" height="28.27" as="geometry" />
           </mxCell>
         </object>
-        <UserObject label="" link="INSERTLINK" id="7vPBiyCj5RiWDK0NkWEU-11">
+        <UserObject label="" link="https://youtu.be/7ZWfpiweRIA?si=d4GfyIjQy_T0drLW" id="7vPBiyCj5RiWDK0NkWEU-11">
           <mxCell style="group" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1" connectable="0">
-            <mxGeometry x="72.75" y="898" width="120" height="31" as="geometry" />
+            <mxGeometry x="51.75" y="898" width="120" height="31" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="3v1Y2l8dRt_Qm8-owUrX-12" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-11" vertex="1">
-          <mxGeometry width="120" height="31" as="geometry" />
+          <mxGeometry width="110" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="3v1Y2l8dRt_Qm8-owUrX-13" value="Lecture" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-11" vertex="1">
-          <mxGeometry x="11" y="4.720000000000027" width="60" height="22" as="geometry" />
+        <mxCell id="3v1Y2l8dRt_Qm8-owUrX-13" value="Part 1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-11" vertex="1">
+          <mxGeometry x="9" y="4.720000000000027" width="60" height="22" as="geometry" />
         </mxCell>
         <object label="" goesto="video" id="3v1Y2l8dRt_Qm8-owUrX-14">
           <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.media;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-11" vertex="1">
-            <mxGeometry x="88.48000000000002" y="1.5874999999998636" width="28.27" height="28.27" as="geometry" />
+            <mxGeometry x="71.48000000000002" y="1.5874999999998636" width="28.27" height="28.27" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="mxBIid40kfbrVEIbtsKn-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
@@ -391,8 +391,21 @@
             <mxGeometry x="88.48000000000002" y="1.5874999999998636" width="28.27" height="28.27" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="FNeGi9UoTo6vzZF_a-Rm-6" value="Coming soon!" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="194.25" y="883" width="60" height="30" as="geometry" />
+        <mxCell id="KoQmhuynzjkegjwQG8Sy-9" value="" style="group" vertex="1" connectable="0" parent="sE8VhiYjIZNDJQxLDYTJ-7">
+          <mxGeometry x="174" y="898" width="110" height="31" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://youtu.be/8Rcxv3AX0lg?si=xepGLYJie1IsE603" id="KoQmhuynzjkegjwQG8Sy-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="KoQmhuynzjkegjwQG8Sy-9">
+            <mxGeometry width="110" height="31" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="" goesto="video" id="KoQmhuynzjkegjwQG8Sy-7">
+          <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.media;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;container=0;" vertex="1" parent="KoQmhuynzjkegjwQG8Sy-9">
+            <mxGeometry x="80.73000000000002" y="1.3674999999998363" width="28.27" height="28.27" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="KoQmhuynzjkegjwQG8Sy-8" value="Part 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;container=0;" vertex="1" parent="KoQmhuynzjkegjwQG8Sy-9">
+          <mxGeometry x="11.25" y="4.5" width="60" height="22" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-79" value="Module 3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="727" y="731" width="210" height="30" as="geometry" />
