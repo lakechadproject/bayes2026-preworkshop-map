@@ -170,7 +170,7 @@
           <mxGeometry x="380" y="731" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-7" value="Theory Fundamentals" style="swimlane;fontSize=24;startSize=51;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fillColor=light-dark(#317e08, #ededed);fontColor=#FFFFFF;swimlaneFillColor=light-dark(#b06914, #ededed);align=left;" parent="1" vertex="1">
-          <mxGeometry x="349" y="770" width="300" height="1350" as="geometry">
+          <mxGeometry x="349" y="770" width="307.25" height="1350" as="geometry">
             <mxRectangle x="-60" y="-105.11827956989248" width="300" height="57.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -181,17 +181,17 @@
           <mxGeometry x="44.74" y="1000" width="193.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-68" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="34.25" y="639" width="223" height="161" as="geometry" />
+          <mxGeometry x="34.25" y="650" width="223" height="161" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-71" value="Causal&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;diagrams&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for complex systems&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="44.25" y="638.7554" width="190" height="69.0046" as="geometry" />
+          <mxGeometry x="44.25" y="649.7554" width="190" height="69.0046" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-70" value="Dr. Katherine Muller" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="45.37" y="696.36" width="125.75" height="14.4" as="geometry" />
+          <mxGeometry x="45.37" y="707.36" width="125.75" height="14.4" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;Exercises, and slides&lt;/font&gt;" link="https://github.com/lakechadproject/BayesWorkshop2026/tree/main/TheoryModule/CausalDiagrams" id="3v1Y2l8dRt_Qm8-owUrX-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-            <mxGeometry x="63.88" y="755.28" width="138.75" height="37" as="geometry" />
+            <mxGeometry x="63.88" y="766.28" width="138.75" height="37" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-73" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
@@ -248,31 +248,9 @@
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-51" value="Probability and Bayes Rule" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-5" vertex="1">
           <mxGeometry x="30.269999999999996" y="19.709677419354847" width="152.73" height="39.41935483870968" as="geometry" />
         </mxCell>
-        <UserObject label="" id="7vPBiyCj5RiWDK0NkWEU-6">
-          <mxCell style="group" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1" connectable="0">
-            <mxGeometry x="31.25" y="258" width="230" height="97.23440860215055" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-53" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-6" vertex="1">
-          <mxGeometry x="7" width="223" height="91.97849462365592" as="geometry" />
-        </mxCell>
-        <object label="" goesto="video" id="sE8VhiYjIZNDJQxLDYTJ-54">
-          <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.media;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-6" vertex="1">
-            <mxGeometry x="175.99625" y="14.374924731182773" width="29.0625" height="29.0625" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-55" value="Prof. Frederi Viens" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-6" vertex="1">
-          <mxGeometry y="57.81505376344086" width="171.54" height="39.41935483870968" as="geometry" />
-        </mxCell>
-        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-56" value="Linear models and Bayes Rule" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-6" vertex="1">
-          <mxGeometry x="30.269999999999996" y="19.70967741935482" width="152.73" height="39.41935483870968" as="geometry" />
-        </mxCell>
-        <mxCell id="FNeGi9UoTo6vzZF_a-Rm-1" value="Coming soon!" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" parent="7vPBiyCj5RiWDK0NkWEU-6" vertex="1">
-          <mxGeometry x="160.53" y="61.98000000000002" width="60" height="30" as="geometry" />
-        </mxCell>
         <UserObject label="" id="7vPBiyCj5RiWDK0NkWEU-7">
           <mxCell style="group" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1" connectable="0">
-            <mxGeometry x="31.25" y="363" width="232" height="97.23440860215055" as="geometry" />
+            <mxGeometry x="31.25" y="389" width="232" height="97.23440860215055" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-58" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-7" vertex="1">
@@ -293,22 +271,22 @@
           <mxGeometry x="149.75" y="57.819999999999936" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-63" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="38.5" y="480" width="221.5" height="140" as="geometry" />
+          <mxGeometry x="38.5" y="497" width="221.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-66" value="Telling a data story" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="54.31" y="484" width="185.69" height="36" as="geometry" />
+          <mxGeometry x="54.31" y="501" width="185.69" height="36" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-65" value="Dr. Katherine Muller" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-          <mxGeometry x="50" y="515" width="134" height="18.72" as="geometry" />
+          <mxGeometry x="50" y="532" width="134" height="18.72" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 16px;&quot;&gt;Code, exercises, and slides&lt;/span&gt;" link="https://github.com/lakechadproject/BayesWorkshop2026/tree/main/TheoryModule/TellingADataStory" id="3v1Y2l8dRt_Qm8-owUrX-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;container=0;align=left;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
-            <mxGeometry x="67.25" y="573" width="134.5" height="37" as="geometry" />
+            <mxGeometry x="67.25" y="590" width="134.5" height="37" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://youtu.be/VA8hZXEoSxU?si=XiNqWSFQecqOt4C4" id="7vPBiyCj5RiWDK0NkWEU-9">
           <mxCell style="group" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1" connectable="0">
-            <mxGeometry x="67.25" y="533.72" width="120" height="31" as="geometry" />
+            <mxGeometry x="67.25" y="550.72" width="120" height="31" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="3v1Y2l8dRt_Qm8-owUrX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="7vPBiyCj5RiWDK0NkWEU-9" vertex="1">
@@ -377,7 +355,7 @@
         </UserObject>
         <UserObject label="" link="https://youtu.be/3wbwSOsG3N0?si=1H9ef6pT1D32s9BE" id="FNeGi9UoTo6vzZF_a-Rm-2">
           <mxCell style="group" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1" connectable="0">
-            <mxGeometry x="63" y="716" width="120" height="31" as="geometry" />
+            <mxGeometry x="63" y="727" width="120" height="31" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="3v1Y2l8dRt_Qm8-owUrX-7" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="FNeGi9UoTo6vzZF_a-Rm-2" vertex="1">
@@ -391,21 +369,49 @@
             <mxGeometry x="88.48000000000002" y="1.5874999999998636" width="28.27" height="28.27" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="KoQmhuynzjkegjwQG8Sy-9" value="" style="group" vertex="1" connectable="0" parent="sE8VhiYjIZNDJQxLDYTJ-7">
+        <mxCell id="KoQmhuynzjkegjwQG8Sy-9" value="" style="group" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1" connectable="0">
           <mxGeometry x="174" y="898" width="110" height="31" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://youtu.be/8Rcxv3AX0lg?si=xepGLYJie1IsE603" id="KoQmhuynzjkegjwQG8Sy-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="KoQmhuynzjkegjwQG8Sy-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="KoQmhuynzjkegjwQG8Sy-9" vertex="1">
             <mxGeometry width="110" height="31" as="geometry" />
           </mxCell>
         </UserObject>
         <object label="" goesto="video" id="KoQmhuynzjkegjwQG8Sy-7">
-          <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.media;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;container=0;" vertex="1" parent="KoQmhuynzjkegjwQG8Sy-9">
+          <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.media;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;container=0;" parent="KoQmhuynzjkegjwQG8Sy-9" vertex="1">
             <mxGeometry x="80.73000000000002" y="1.3674999999998363" width="28.27" height="28.27" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="KoQmhuynzjkegjwQG8Sy-8" value="Part 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;container=0;" vertex="1" parent="KoQmhuynzjkegjwQG8Sy-9">
+        <mxCell id="KoQmhuynzjkegjwQG8Sy-8" value="Part 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;container=0;" parent="KoQmhuynzjkegjwQG8Sy-9" vertex="1">
           <mxGeometry x="11.25" y="4.5" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-53" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
+          <mxGeometry x="38.25" y="258" width="223" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-55" value="Prof. Frederi Viens" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
+          <mxGeometry x="50" y="308.82" width="152.79" height="24.18" as="geometry" />
+        </mxCell>
+        <mxCell id="sE8VhiYjIZNDJQxLDYTJ-56" value="Linear models and Bayes Rule" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;container=0;" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
+          <mxGeometry x="40.66" y="267.2" width="209.34" height="39.42" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://github.com/lakechadproject/BayesWorkshop2026/blob/main/TheoryModule/LinearModelsAndBayes/Frederi%20notes%20for%20linear%20Bayes%20intermediate%20video%2001-01-2026.pdf" id="1jC6m44_hIomxuYSjqwl-4">
+          <mxCell style="group" vertex="1" connectable="0" parent="sE8VhiYjIZNDJQxLDYTJ-7">
+            <mxGeometry x="195.25" y="330" width="64.75" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1jC6m44_hIomxuYSjqwl-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Notes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1jC6m44_hIomxuYSjqwl-4">
+          <mxGeometry y="3" width="61.75" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="1jC6m44_hIomxuYSjqwl-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Lecture&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="sE8VhiYjIZNDJQxLDYTJ-7">
+          <mxGeometry x="44" y="332" width="140" height="40" as="geometry" />
+        </mxCell>
+        <object label="" goesto="video" id="1jC6m44_hIomxuYSjqwl-3">
+          <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.media;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="sE8VhiYjIZNDJQxLDYTJ-7">
+            <mxGeometry x="102" y="336" width="30" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="FNeGi9UoTo6vzZF_a-Rm-1" value="Coming soon!" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" parent="sE8VhiYjIZNDJQxLDYTJ-7" vertex="1">
+          <mxGeometry x="136" y="337" width="36" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sE8VhiYjIZNDJQxLDYTJ-79" value="Module 3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="727" y="731" width="210" height="30" as="geometry" />
